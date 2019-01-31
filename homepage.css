@@ -1,0 +1,103 @@
+body {
+	  background-color:black;
+	  color:white;
+}
+
+.nav {
+	background-color:skyblue;
+	font-family:Arial,Helvetica;
+	font-size:18;
+	margin:auto;
+	width:50%;
+	padding:10px;
+}
+h1.title {
+	 background-color:violet;
+	 font-family:Arial,Helvetica;
+	 text-align:center;
+	 font-size:30;
+	 margin:auto;
+	 width:70%;
+	 padding:10px;
+}
+
+h4.intro {
+	 background-color:violet;
+	 font-family:Arial,Helvetica;
+	 text-align:center;
+	 font-size:30;
+	 margin:auto;
+	 width:60%;
+	 padding:10px;
+}
+
+h2 { 
+    background-color:gray;
+	font-size:23;
+	font-family:arial,Helvetica;
+	color:white;
+	margin:auto;
+	padding:10px;
+	width:90%;
+}
+	/*H2 IS FOR ABOUT.HTML*/
+
+p.intro {
+	background-color:gray;
+	font-size:23;
+	font-family:arial,Helvetica;
+	color:white;
+	margin:auto;
+	padding:10px;
+	width:90%;
+
+}
+
+div.levels {
+	background-color:orange;
+}
+
+p.levels {
+	font-size:23;
+	font-family:arial,Helvetica;
+	color:white;
+	margin:auto;
+	padding:10px;
+	width:90%;
+}
+
+h1.levels {
+	 font-family:Arial,Helvetica;
+	 text-align:center;
+	 font-size:30;
+	 margin:auto;
+	 width:50%;
+	 padding:10px;
+	 
+}
+
+.startall {
+	color:Black;
+	text-align:center;
+	font-family:Arial,Helvetica;
+	font-size:35;
+	background-color:yellow;
+}
+
+div.alllevel { 
+	color:white;
+	font-family:Arial,Helvetica;
+	font-size:25;
+	margin:auto;
+	width:50%;
+	padding:10px;
+}
+
+p.below{
+	font-family:Arial,Helvetica;
+	text-align:center;
+	font-size:23;
+	margin:auto;
+	width:50%;
+	padding:10px;
+}

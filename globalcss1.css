@@ -1,0 +1,89 @@
+body {
+	background-color:black;
+	color:white;
+}
+
+.nav {
+	color:White;
+	background-color:skyblue;
+	font-family:Arial,Helvetica;
+	font-size:18;
+	margin:auto;
+	width:50%;
+	padding:10px;
+}
+h1.title {
+	 background-color:violet;
+	 font-family:Arial,Helvetica;
+	 text-align:center;
+	 font-size:30;
+	 margin:auto;
+	 width:70%;
+	 padding:10px;
+}
+
+h3.level {
+	 background-color:violet;
+	 font-family:Arial,Helvetica;
+	 text-align:center;
+	 font-size:30;
+	 margin:auto;
+	 width:60%;
+	 padding:10px;
+}
+
+div.start {
+	background-color:orange;
+	font-family:Arial,Helvetica;
+	font-size:20;
+	margin:auto;
+	width:80%;
+	padding:10px;
+}
+
+p.description {
+	font-family:Arial,Helvetica;
+	font-size:20;
+	margin:auto;
+	width:80%;
+	padding:5px;
+}
+
+h2.title {
+	color:Black;
+	text-align:center;
+	font-family:Arial,Helvetica;
+	font-size:35;
+	background-color:lightyellow;
+	margin:auto;
+	 width:80%;
+	 padding:10px;
+}
+
+div.img {
+	background-color:magenta;
+	font-family:Arial,Helvetica;
+	font-size:18;
+	 margin:auto;
+	 width:80%;
+	 padding:5px;
+}
+
+div.ref {
+	background-color:black;
+	font-family:Arial,Helvetica;
+	font-size15px;
+	margin:auto;
+	width:80%;
+	padding:5px;
+}
+
+div.QUIZ {
+	color:white;
+	background-color:black;
+	font-family:Arial,Helvetica;
+	font-size15px;
+	margin:auto;
+	width:80%;
+	padding:5px;
+}
