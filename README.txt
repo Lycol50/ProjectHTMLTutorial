@@ -1,3 +1,6 @@
+[![GitNFT](https://img.shields.io/badge/%F0%9F%94%AE-Open%20in%20GitNFT-darkviolet?style=for-the-badge)]
+> This repository is now a NFT Collection!
+
 THIS FOLDER INCLUDES THE:
 HTML & CSS Files for the WEBSITE
 Pictures for the Website
